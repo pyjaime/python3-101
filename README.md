@@ -9,3 +9,4 @@ Para su lectura es recomendable acceder desde nbviewer:
 * [NumPy](https://nbviewer.jupyter.org/github/pyjaime/python3-101/blob/master/python3_numpy_es.ipynb)
 * [Pandas](https://nbviewer.jupyter.org/github/pyjaime/python3-101/blob/master/python3_pandas_es.ipynb)
 * [Matplotlib](https://nbviewer.jupyter.org/github/pyjaime/python3-101/blob/master/python3_matplotlib_es.ipynb)
+* [Scikit-Learn](https://nbviewer.jupyter.org/github/pyjaime/python3-101/blob/master/python3_scikitlearn_es.ipynb)
